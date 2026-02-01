@@ -337,7 +337,7 @@ img {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2053&auto=format&fit=crop');
+    background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=60&w=1200');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1369,4 +1369,5 @@ body {
     .btn {
         display: none;
     }
+
 }
