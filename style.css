@@ -341,7 +341,7 @@ img {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: url('hero.jpg');
+    background-image: url('hero.webp');
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
@@ -1400,5 +1400,6 @@ body {
     .btn {
         display: none;
     }
+
 
 }
