@@ -57,8 +57,7 @@
             initTouchOptimizations();
         }
 
-        console.log('✅ Made by Raed Brini');
-        console.log('You can contact me via email : raed.brini@gmail.edu ')
+        console.log('✅ Mme Myriam Zhioua');
     }
 
     // --- Mobile Menu Toggle ---
@@ -374,4 +373,5 @@
     } else {
         initializeApp();
     }
+
 })();
