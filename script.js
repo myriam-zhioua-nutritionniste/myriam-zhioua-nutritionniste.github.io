@@ -57,7 +57,7 @@
             initTouchOptimizations();
         }
 
-        console.log('✅ Mme Myriam Zhioua');
+        console.log('✅ Mme Myriam Zhioua - success');
     }
 
     // --- Mobile Menu Toggle ---
@@ -375,6 +375,3 @@
     }
 
 })();
-
-
-console.log("success");
