@@ -57,7 +57,7 @@
             initTouchOptimizations();
         }
 
-        console.log('✅ Mme Myriam Zhioua - success');
+        console.log('✅ Mme Myriam Zhioua ');
     }
 
     // --- Mobile Menu Toggle ---
